@@ -1,0 +1,9 @@
+curl 'https://test.rtoperator.ru/lk/request.php?type=saveOrder' \
+  -H 'Connection: keep-alive' \
+<style> </style>
+{ margin:0;
+ Padding:0 }
+
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'sec-ch-ua-mobile: ?0' \
